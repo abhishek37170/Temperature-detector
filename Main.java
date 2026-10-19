@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Random;
 public class Main{
     static int readInt(Scanner sc) {
     while(!sc.hasNextInt()){
