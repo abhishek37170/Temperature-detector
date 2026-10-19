@@ -9,7 +9,7 @@ public class Main{
 
             for(int i =1;i<=50;i++){
                 if(i<=n){
-                    if(i<12){
+                    if(i<=12){
                     System.out.print("🟨");
                     }
                     else if(i>12 && i<23){
